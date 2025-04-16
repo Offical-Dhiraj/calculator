@@ -55,7 +55,7 @@ input {
     cursor: pointer;
 }
 
-@media (max-width: 400px) {
+@media only screen and (max-width: 400px) {
     form {
         padding: 15px;
     }
